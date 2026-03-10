@@ -16,11 +16,12 @@ body {
 .banner-container {
   width: 1000px;
   height: 600px;
-  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  background: linear-gradient(135deg, #0f172a 0%, #192538 50%, #0f172a 100%);
   border: 4px solid #334155;
   position: relative;
   overflow: hidden;
   color: white;
+  border-radius: 10px;
 }
 
 /* Header styling */
@@ -192,9 +193,10 @@ body {
   border-radius: 53%;
   border-bottom-left-radius: 5%;
   padding: 6px;
-    background: linear-gradient(45deg, #F7E93F 0%, #FB09B4 51%, #9100F8 100%);
-     
+  background: linear-gradient(45deg, #F7E93F 0%, #FB09B4 51%, #9100F8 100%);
+
 }
+
 /* ================= MOBILE RESPONSIVE ================= */
 @media (max-width: 768px) {
 

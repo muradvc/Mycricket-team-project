@@ -87,11 +87,11 @@ body {
 }
 
 .captain-img {
-  width: 200px;
+  width: 226px;
   height: 250px;
   background: linear-gradient(45deg, #f7e83f2a 0%, #fb09b237 51%, #9100f852 100%);
-  border: 3px solid #fbbf24;
-  border-radius: 8px;
+  border: 3px solid #24d3fb;
+  border-radius: 10px;
 }
 
 .name-tag {
